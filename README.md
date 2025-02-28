@@ -1,2 +1,2 @@
 # gedp1
-1
+Inicio del curso de Github
